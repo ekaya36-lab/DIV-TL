@@ -1,0 +1,8 @@
+cff-version: 1.2.0
+message: "If you use DIV-TL in your research, please cite the related manuscript."
+title: "DIV-TL: Diversity Selection with Majority-Only Tomek Links for Imbalanced Classification"
+authors:
+  - family-names: Kaya
+    given-names: Ersin
+version: "0.1.0"
+date-released: "2026-05-03"
