@@ -78,12 +78,3 @@ DIV-TL/
 - Because the method uses distance-based generators and K-Means, feature scaling is recommended before calling `fit_resample`.
 - `smote-variants` may behave slightly differently across versions. The implementation tries multiple compatible parameter configurations for the supported generators.
 
-## Citation
-
-If you use this code in your research, please cite the related manuscript:
-
-```text
-Kaya, E., Korkmaz, S., & Sahman, M. A.
-Selection and Cleaning-Aware Composite Pool Sampling for Imbalanced Classification.
-Manuscript under preparation.
-```
